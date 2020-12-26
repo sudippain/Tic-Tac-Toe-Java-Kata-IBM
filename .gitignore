@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
-
+# Donot copy target folder contain
+*/target/**
 # Log file
 *.log
 

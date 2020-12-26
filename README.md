@@ -20,6 +20,9 @@ It is a solved game with a forced draw assuming best play from both players. Sin
 ## IDE
 - Spring Tool Suite(STS)
 
+## Run Command
+- java -jar tictactoe-0.0.1-SNAPSHOT.jar (Inside target folder)
+
 ## Input:
 Preference symbol for User: (X or O)
 
