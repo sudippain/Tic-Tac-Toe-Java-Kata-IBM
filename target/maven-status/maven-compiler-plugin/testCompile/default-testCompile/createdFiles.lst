@@ -1,0 +1,8 @@
+com\ibm\tictactoe\builder\TestRunner.class
+com\ibm\tictactoe\model\strategy\WinStrategyHorizontalShould.class
+com\ibm\tictactoe\view\BoardDisplayShould.class
+com\ibm\tictactoe\model\strategy\WinStrategyVerticalShould.class
+com\ibm\tictactoe\builder\MarksBuilder.class
+com\ibm\tictactoe\model\strategy\WinStrategyDiagonalShould.class
+com\ibm\tictactoe\view\BoardDisplayShould$1.class
+com\ibm\tictactoe\model\strategy\DrawStrategiesShould.class
