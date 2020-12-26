@@ -49,8 +49,6 @@ Current state of the game:
   |   |  
 
 Next player is CROSS
-This is strategies ===> java.util.ArrayList$Itr@1d44bcfa
-Machine Marked =====> 0
 
 X |   |  
 ---+---+---
@@ -67,8 +65,6 @@ X | 0 |
   |   |  
 
 Next player is CROSS
-This is strategies ===> java.util.ArrayList$Itr@2b193f2d
-Machine Marked =====> 8
 
 X | 0 |  
 ---+---+---
@@ -85,8 +81,6 @@ X | 0 |
   |   | X
 
 Next player is CROSS
-This is strategies ===> java.util.ArrayList$Itr@355da254
-Machine Marked =====> 7
 
 X | 0 |  
 ---+---+---
@@ -103,8 +97,6 @@ X | 0 |
 0 | X | X
 
 Next player is CROSS
-This is strategies ===> java.util.ArrayList$Itr@4dc63996
-Machine Marked =====> 2
 
 X | 0 | X
 ---+---+---
@@ -121,8 +113,6 @@ X | 0 | X
 0 | X | X
 
 Next player is CROSS
-This is strategies ===> java.util.ArrayList$Itr@d716361
-Machine Marked =====> 3
 
 X | 0 | X
 ---+---+---
@@ -132,7 +122,7 @@ X | 0 | 0
 
 
 
-#Docker 
+## Docker :
 Build your image:
 
 docker build -t imageName .
